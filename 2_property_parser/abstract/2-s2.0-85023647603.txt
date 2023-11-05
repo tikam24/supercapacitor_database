@@ -1,0 +1,1 @@
+Regularities of energy accumulation in the double layer on the surface of 2D materials with a low density of electronic states are analyzed. It is shown that the limiting voltage on a supercapacitor with electrodes of 2D materials can exceed the voltage of electrolyte decomposition. The experimental data confirming the stated assumptions are presented and discussed.

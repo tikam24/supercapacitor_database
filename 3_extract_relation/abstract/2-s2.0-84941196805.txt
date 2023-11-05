@@ -1,0 +1,1 @@
+Three-dimensional Ni@graphene (NG) was prepared for the first time at a low temperature by a one-step facile calcination method. The obtained NG showed a high specific capacitance of 765 F g<sup>-1</sup> at a current density of 1 A g<sup>-1</sup> and only 5% loss of the initial specific capacitance after 3000 charge-discharge cycles.

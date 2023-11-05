@@ -1,0 +1,1 @@
+We report a simple route for high-density flower-like NiCo2O4 nanosheets with ultrahigh mass loading of 9.2 mg cm-2 on nickel foam to achieve superior capacitance. The as-assembled asymmetric supercapacitor yields a high energy density of 87.4 W h kg-1 and an excellent cycle life with 93.2% capacitance retention after 11 000 cycles.

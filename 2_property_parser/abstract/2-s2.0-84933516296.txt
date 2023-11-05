@@ -1,0 +1,1 @@
+This paper presents a study on DC/DC converter with supercapacitor stack for a trolleybus. After the description of transportation application, the performance of the system is studied by testing different control strategies. The comparison of SMC (Sliding mode Control) and PI controller on a developed test bench has shown the benefit of SMC in this type of applications.

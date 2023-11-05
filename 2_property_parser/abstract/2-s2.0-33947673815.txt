@@ -1,0 +1,1 @@
+Operation of a shunting locomotive consists of short drive cycles with fast acceleration, coasting and fast deceleration periods. This operation characteristic is ideally suited for application of an energy storage system like supercapacitors. In conjunction with a PM generator, this drive system can save a considerable amount of fuel.

@@ -1,0 +1,1 @@
+Inductive response of supercapacitor to switching of charging current has been examined. The observed effect has been interpreted as a consequence of mechanical inertia of liquid conducting system (electrolyte). The proposed interpretation has been confirmed by simulation experiment. © 2013 Pleiades Publishing, Ltd.

@@ -1,0 +1,1 @@
+In the following paperwork a mathematical model of an electronic converter for charging energy storage elements has been created. The model is verified with simulation and experimental studies. The proposed circuit can be used for charging and voltage equalization over series connected energy storage elements - supercapacitors. The circuit allows modularity.

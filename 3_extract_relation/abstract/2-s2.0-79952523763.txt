@@ -1,0 +1,1 @@
+To achieve the highest power conversion efficiency, heterogeneous chip-scale integration of silicon-based and GaN-based power switches with SiC power diodes, silicon CMOS control IC, MEMS inductor and micro microchip supercapacitor assembled using advanced packaging and microcooling is reported. © 2010 IEEE.

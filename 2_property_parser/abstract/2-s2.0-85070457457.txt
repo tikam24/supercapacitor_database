@@ -1,0 +1,1 @@
+The article describes the two way to prevention short-term power outages first is the using increase field-forcing ratio of synchronous machine and second is the using batteries and supercapacitors of high power.

@@ -1,0 +1,1 @@
+LiTFSI/H2O water-in-salt electrolytes with different concentrations show high energy densities for capacitive charge storage at sub-zero-temperatures (e.g. 32.23, 38.35 and 35 W h kg−1 at 0, −10 and −20 °C, which are 1.44, 1.71 and 1.56 times that of normal temperature).

@@ -1,0 +1,1 @@
+This paper compares the structural analysis of various car body panels between materials carbon fiber and aluminum with equivalent stress, displacement magnitude and the total capacitance of 3000F can be achieved to run the car replacing batteries with super capacitor packs in the car body panels and finally achieving the total weight reduction of 487.34 kgs from vehicle.

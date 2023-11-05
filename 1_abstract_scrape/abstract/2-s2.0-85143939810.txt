@@ -1,0 +1,1 @@
+A supercapacitor-based power backup system that prevents data loss in RAID systems is described.

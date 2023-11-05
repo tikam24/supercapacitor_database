@@ -1,0 +1,1 @@
+We present conductivity data for a newly synthesised metal–organic framework FeQ, Fe(C14H6O4).H2O demonstrating significant electronic transport. The electrical conductivity of the material is expected to be through the π–π interaction of the ligand-quinizarin and is measured to be 1.73 × 10−2 Scm−1 . Its potential role as supercapacitor electrodes is discussed.

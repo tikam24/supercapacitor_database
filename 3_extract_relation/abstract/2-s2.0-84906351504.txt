@@ -1,0 +1,1 @@
+In the present paper is studied 3-phase DC-DC converter for charging supercapacitors or batteries. Equations for designing the power circuit of converter are also shown. The a.m. equations are confirmed by simulation and experiment in laboratory model. © VDE VERLAG GMBH · Berlin · Offenbach.

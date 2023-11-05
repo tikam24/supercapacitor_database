@@ -1,0 +1,1 @@
+This paper compares forward vs. backward fractional-order Grunwald-Letnikov differences employed in modeling of a supercapacitor charging circuit by means of two equivalent RC circuits. Rather surprisingly, the forward difference is illustrated to slightly outperform its backward counterpart in the considered applications.

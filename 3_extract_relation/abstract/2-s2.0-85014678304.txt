@@ -1,0 +1,1 @@
+Biomimicry of the Cuscutae design resulted in a supercapacitor with massive pseudocapacitive functionality implantation. The use of an ionic liquid electrolyte enables the symmetric device to deliver an unprecedented footprint-normalized capacitance exceeding 2.5 F cm−2, a geometric energy density of 2.33 mW h cm−2 and a geometric power density of 25.72 mW cm−2.

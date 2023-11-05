@@ -1,0 +1,1 @@
+The article presents a comparative analysis of various types of energy storage devices. Features of joint batteries and supercapacitors application as a hybrid electric power storage are considered. A mathematical model of a hybrid energy storage device was built to evaluate the efficiency of sharing and determining the applications of such storage devices.

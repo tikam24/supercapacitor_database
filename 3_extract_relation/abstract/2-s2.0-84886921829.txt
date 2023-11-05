@@ -1,0 +1,1 @@
+This paper presents the results of the underground DC traction substation simulation studies for two versions: the substation equipped with the ESD (Energy Storage Device) and without the ESD. In these studies Supercapacitors Energy Storage System of energy capacity 10 kWh and voltage 900 V is used. Simulation studies were performed in the Simscape/Simulink.

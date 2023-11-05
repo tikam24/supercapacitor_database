@@ -1,0 +1,1 @@
+In this paper the Parameters of a Double Layer Super Capacitor (DLC) Bank are experimentally identified online using Recursive Least Squares (RLS). In order to extract the signals suitable for the RLS a proper signal processing system has been implemented. Results have been verified with those obtained with an off-line common technique applied to the 2-branch model of the DLC.

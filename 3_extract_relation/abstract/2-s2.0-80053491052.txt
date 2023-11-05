@@ -1,0 +1,1 @@
+The paper presents the power conditioning system (PCS) with a five-level cascaded H-bridge converter and supercapacitor energy storage. The paper focuses on such properties of a power electronic converter as its operation, power losses, start-up as well as the DC-link voltage balancing method and controller. A laboratory model of the PCS and its test results have been presented.

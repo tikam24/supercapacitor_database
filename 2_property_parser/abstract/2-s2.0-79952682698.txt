@@ -1,0 +1,1 @@
+The design of disruptive chip-scale integration of DC/DC power converters using breakthrough silicon and GaN power semiconductor switching devices, silicon CMOS control IC, MEMS inductor and microchip supercapacitor assembled using novel "Quilt Packaging" and microcooling to achieve nearly 90% power conversion efficiency is reported. © 2010 IEEE.

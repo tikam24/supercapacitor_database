@@ -1,0 +1,1 @@
+The effects of surface oxidation on the capacitance of titanium nitride electrode surfaces, produced by reaction of titanium foils with ammonia, are examined. Thermal oxidation and electrochemical oxidation both increase the amount of redox active oxide at the surface, but electrochemical oxidation is found to be more successful in increasing the capacitance.

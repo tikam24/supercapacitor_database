@@ -1,0 +1,1 @@
+A method and automated equipment for dc measurements of capacitance, equivalent series resistance, efficiency and average leakage current of ultracapacitors are considered.

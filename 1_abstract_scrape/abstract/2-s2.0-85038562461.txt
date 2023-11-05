@@ -1,0 +1,1 @@
+Hydroxyl radicals (OH) generated from a UV/O3 solution reaction is used to efficiently etch graphene oxide nanosheets under moderate conditions. Reduced holey graphene oxide is directly used as a supercapacitor electrode material and exhibits high specific capacitance (224 F g-1 at a current density of 1 A g-1) and high volumetric capacitance (up to 206 F cm-3).

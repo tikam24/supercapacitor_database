@@ -1,0 +1,1 @@
+Contact angle measurements (surface wettability) of the electrolytes (1 M KOH, NaOH and LiOH) and their combination (1 M 1:1 v/v LiOH + KOH, NaOH + KOH and LiOH + NaOH) in contact with ZnFe2O4 nano-flake based electrodes is used as an empirical diagnostic tool to pre-evaluate the performance of a supercapacitor prior to actual fabrication of the device.

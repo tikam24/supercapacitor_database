@@ -1,0 +1,1 @@
+In this paperwork a circuit for charging supercapacitors has been studied. This circuit also provides voltage balancing over series connected supercapacitor cells. Simulation models have been created, using MatLab and LTSpiceIV. Simulations and experimental studies have been made.

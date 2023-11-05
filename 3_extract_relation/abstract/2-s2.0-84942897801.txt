@@ -1,0 +1,1 @@
+Supercapacitor-based circuits have long time constants. This property can be usefully utilized in surge-absorbing circuits, despite the fact that they are very low voltage devices. Technique called supercapacitor-assisted surge absorber (SCASA) is discussed, comparing its performance with a traditional commercial surge absorber.

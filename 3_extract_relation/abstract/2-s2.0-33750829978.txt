@@ -1,0 +1,1 @@
+This paper is about supercapacitors for energy storage. Supercapacitor modelling and specifications are presented. Three applications in transportation are described in this study. The first is about internal combustion engine. The second and the third deal energy storage with Maxwell supercapacitors for Tram-way applications.

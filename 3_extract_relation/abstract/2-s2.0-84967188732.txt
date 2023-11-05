@@ -1,0 +1,1 @@
+A porous, cube-shaped, Mn2O3/carbon material of varying sizes was prepared via co-synthesis, in which Mn2O3 homogeneously contacts with carbon. Upon a 100 fold increase in current density, specific capacitance dropped by only 39.0%, and the material showed excellent long-term cycle stability of 89% capacitance retention after 2000 cycles at 2 A g-1.

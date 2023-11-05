@@ -1,0 +1,1 @@
+We present a simple strategy for synthesizing sponge-like NiCo 2O4/MnO2 ultrathin nanoflakes, which exhibit a high specific capacitance of 935 F g-1 at 1 A g-1, excellent rate performance (74.9% retention at 50 A g-1), and ultra-long cycling stability (103.1% of the initial capacitance after 25000 cycles). This journal is © the Partner Organisations 2014.

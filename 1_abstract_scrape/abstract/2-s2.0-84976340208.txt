@@ -1,0 +1,1 @@
+A modified Watts bath coupled with pulsed current electroplating is used to uniformly deposit ultrafine nickel oxide particles (diameter < 4 nm) on multiwalled carbon nanotubes. The capacitance of the multiwalled carbon nanotubes/nickel oxide electrodes was as high as 2480 F g−1 (per mass of nickel oxide), which is close to the theoretical capacitance of NiO.

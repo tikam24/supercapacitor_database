@@ -1,0 +1,1 @@
+Battery life depends on peak power drawn by load. Peak power drawn from battery can be reduced by connecting Ultra capacitor along with battery. Ultra capacitor can provide peak power demands of the load. Base demand will be provided by battery which reduces battery current by almost 50% and enhance life, endurance and energy capacity of storage system.

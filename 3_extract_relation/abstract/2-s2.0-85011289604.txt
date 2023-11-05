@@ -1,0 +1,1 @@
+In this paper, we investigate using OECTs in differential amplifiers and cell voltage equalizers for supercapacitor balancing circuits. The differential amplifier based on OECTs can sense voltage difference and the voltage equalizer consisting of a microcontroller and OECTs can be used to charge supercapacitors to desired voltages.

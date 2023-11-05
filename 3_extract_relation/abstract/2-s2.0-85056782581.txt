@@ -1,0 +1,1 @@
+This comment concerns a mistake of applying pseudo-second-order kinetic equation for calculating the kinetic parameters of adsorption, a citation error and figure plagiarism.

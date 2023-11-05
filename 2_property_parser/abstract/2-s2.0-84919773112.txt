@@ -1,0 +1,1 @@
+ZIF-67, NiC2O4·2H2O and NiC2O4/ZIF-67 materials are synthesized by a hydrothermal method. The NiC2O4/ZIF-67 electrode delivers a aximum capacitance of 1019.7 F g-1 at a scan rate of 5mV s-1, and can maintain the specific capacitance of 73% after 2000 cycles in the 6 M KOH electrolyte.

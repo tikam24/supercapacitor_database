@@ -1,0 +1,1 @@
+A novel class of pyrene-based conjugated porous organic polymers having an N-containing network was developed by employing Buchwald-Hartwig coupling for supercapacitor energy storage. The pristine polymer was found to exhibit a specific capacitance of 456 F g-1 at 0.5 A g-1 current density with excellent long-term cyclic stability.

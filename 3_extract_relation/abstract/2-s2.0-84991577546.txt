@@ -1,0 +1,1 @@
+Application of porous silicon for energy storage at microscale is discussed, focusing on the electrochemical double layer capacitors (EDLC), commonly called as supercapacitors. Most recent and pioneering achievements in porous silicon based EDLC electrodes are reviewed. Possible ways towards the device integration are shown.

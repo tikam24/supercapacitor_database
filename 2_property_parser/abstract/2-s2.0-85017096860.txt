@@ -1,0 +1,1 @@
+Novel mesoporous carbon/silicon carbide (C/SiC) composite was synthesized via self-templating method. The synthesis utilizes salt byproducts as the internal self-forming templates. When using as the supercapacitor electrode, the C/SiC composite exhibits a specific capacitance of 220 F g−1, an outstanding cycling stability, and a good rate capability.

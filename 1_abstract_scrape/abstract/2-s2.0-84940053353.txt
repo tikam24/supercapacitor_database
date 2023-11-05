@@ -1,0 +1,1 @@
+This paper assess different types of electrical energy storage devices used in electric and hybrid vehicles. A rationale is presented for selecting a type of an energy storage device based on multiple criteria. A total life cycle analysis of the energy storage as part of an electric vehicle or hybrid electric vehicleis carried out.

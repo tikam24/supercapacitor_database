@@ -1,0 +1,1 @@
+An on-chip concept of supercapacitor electrical energy storage integrated with solar cells using thin-film graphene oxide was demonstrated. The solar supercapacitor showed a 62% columbic efficiency with non-degradation in the solar cell performance. OCIS codes: (220.4000) Microstructure fabrication; (350.6050) Solar energy; (130.3120) Integrated optics devices.

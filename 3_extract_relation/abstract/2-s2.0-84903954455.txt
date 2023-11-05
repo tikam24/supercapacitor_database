@@ -1,0 +1,1 @@
+This paper deals with a simple energy management method for an urban Electric Vehicle (EV) based on a single parallel converter fed by hybrid Battery/Supercapacitor power source. The proposed method leads to a cost reduction and the simulations results illustrate the effectiveness of the proposed method. © 2014 IEEE.

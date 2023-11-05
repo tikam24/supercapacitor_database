@@ -1,0 +1,1 @@
+In this paper we present a new kind of equipment for ultra broadband microwave absorption, which consists of two graphene resistive loop (GRL) structures based on the graphene supercapacitors (GSCs), the different geometry sizes of the two GRLs provide two resonant frequencies. As a result, above 90% absorption ranging from 5 to 20GHz is obtained.

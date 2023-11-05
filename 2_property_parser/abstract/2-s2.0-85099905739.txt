@@ -1,0 +1,1 @@
+Graphite foils (GFs) are emerging as a new class of electrodes in supercapacitors (SCs) based on their light weight, and high electrical conductivity, although the surface area remains low. A novel method of, in situ electrochemical exfoliation and modification of GF in the assembled SCs, showed high energy density and power density of the SC devices.

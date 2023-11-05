@@ -1,0 +1,1 @@
+This paper presents the supercapacitor data acquisition systems with high-level and low-level control structures. The main principles are proposed for such systems. The block diagrams and technical specifications are presented and analyzed for both control structures. ©2007 IEEE.

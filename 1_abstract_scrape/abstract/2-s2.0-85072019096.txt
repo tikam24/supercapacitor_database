@@ -1,0 +1,1 @@
+Machine learning (ML) methods were applied to predict the capacitance of carbon-based supercapacitors. Hundreds of published experimental datasets are collected for training ML models to identify the relative importance of seven electrode features. This present method could be used to predict and screen better carbon electrode materials.

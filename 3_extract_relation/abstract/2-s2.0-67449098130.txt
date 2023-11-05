@@ -1,0 +1,1 @@
+Supercapacitors in parallel with lead-acid batteries provide greater capacity in lesser volume; cold cranking improves. Lower effective series resistance (ESR) gives greater net capacity. Laboratory experiments and road tests on reduced-volume batteries ganged with supercapacitors demonstrate the practical and economic advantages. Several application principles are presented.

@@ -1,0 +1,1 @@
+Using the method of crystallochemical analysis (the TOPOS program package), the 14 most promising and stable structures of lithium manganese (iron) silicate compounds have been selected based on the data on 132 experimentally received and predicted compounds (Materials Project resource).

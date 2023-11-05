@@ -1,0 +1,1 @@
+The energy consumption of consumer electronics while in off state is a never ending discussion and leads to always improving and more complex solutions. This paper shows our experiences with a concept completely removing such consumption while maintaining the most important remote control functionality.

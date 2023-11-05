@@ -1,0 +1,1 @@
+This review discusses the use of atom transfer radical polymerization (ATRP), a controlled radical polymerization method, to modify electrode surfaces and create functional materials for electrochemical applications. The benefits of using ATRP-based polymers are highlighted for the fabrication of supercapacitors, electrocatalysts, and ultrasensitive electrochemical sensors.

@@ -1,0 +1,1 @@
+This paper presents research motivated by industrial demand for energy storage system for city transport vehicles. The kinetic energy is accumulated into the supercapacitor during vehicle braking. This energy can be used to accelerating again. It is important to save the energy in the vehicles, which accelerate very often. © 2011 IEEE.

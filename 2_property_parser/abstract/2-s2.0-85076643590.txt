@@ -1,0 +1,1 @@
+Hollow ZIF-8 was assembled into fiber to fabricate a nitrogen-doped hierarchical porous CNF electrode, which exhibits specific capacitance of 394 F g-1 at 1 A g-1 and excellent rate performance with a retention of up to 76.1% at 20 A -1, exceeding those of many previously reported 1D carbon materials.

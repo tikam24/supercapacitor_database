@@ -1,0 +1,1 @@
+A major issue in modern power electronics is the design of power systems that convert ambient energy in the environment to electricity. These systems are quite different than either low or high power sources used in the past. In this paper, we highlight these differences and provide design guidelines for and examples of such systems. ©The Electrochemical Society.

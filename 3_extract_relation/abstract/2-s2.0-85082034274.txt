@@ -1,0 +1,1 @@
+We developed a facile, rapid, scalable, and environmentally friendly route to synchronously achieve ultrathin, high-quality graphene and MnO2 nanosheets, which spontaneously migrated and coassembled on a cathodic 3D Ni foam. The resultant 3D MnO2/graphene electrodes exhibited excellent performance for a supercapacitor in terms of capacitance, rate capability and cycle life.

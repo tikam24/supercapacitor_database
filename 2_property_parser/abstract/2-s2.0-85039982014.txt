@@ -1,0 +1,1 @@
+The C/MnO2 composites were prepared by redox reaction between KMnO4 and the porous carbon derived from sonicated ZIF-8 at room temperature. The C/MnO2 composite has a specific capacitance of 159 F g−1. The specific capacitance of MnO2 in the composite is beyond 193 F g−1.

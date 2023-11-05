@@ -1,0 +1,1 @@
+This paper deals with the sizing of a few watts solar harvester. CIGS cells are used for the harvester and supercapacitors for the storage. The power management is explained. Practical results are exhibited. Small thickness (5mm) and large temperature range (-50°C +100°C) are the main requirements.

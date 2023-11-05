@@ -1,0 +1,1 @@
+Presented paper includes description of construction and design of built fuel cell supercapacitor system prepared for Hy-IEL electric scooter. Results of field tests measurements are presented and analysed.

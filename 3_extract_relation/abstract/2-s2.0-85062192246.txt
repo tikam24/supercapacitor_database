@@ -1,0 +1,1 @@
+We prepared a material composed of high-density holey graphite nanosheets (HGNs) that supports a high gravimetric capacitance of 295Fg -1 and a volumetric capacitance of 384Fcm -3 for use as electrodes in supercapacitor devices. This method is a simple and scalable route to obtain large amounts of holey two-dimensional materials with high electrochemical performances.

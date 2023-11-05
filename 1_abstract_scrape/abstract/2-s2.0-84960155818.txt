@@ -1,0 +1,1 @@
+We propose a new type of all-graphene oxide device. Reduced graphene oxide (rGO)/graphene oxide (GO)/rGO functions as both a supercapacitor and a battery, depending on the working voltage. The rGO/GO/rGO operates as a supercapacitor until 1.2 V. At greater than 1.5 V, it behaves as a battery using redox reaction.

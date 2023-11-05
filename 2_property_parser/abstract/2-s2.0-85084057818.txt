@@ -1,0 +1,1 @@
+In this paper a detailed analysis of a bidirectional buck boost converter used for charging/discharging a supercapacitor is carried out. The analysis takes into account conduction parameters of semiconductors and resistances of inductors, determining the variation of different performance indeces when the charge (and voltage) of supercapacitor varies.

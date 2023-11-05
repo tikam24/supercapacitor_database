@@ -1,0 +1,1 @@
+Herein, we demonstrated the synthesis of flat 2D-like holey CuFe2O4 nanosheets using rotational reflux-chemistry approach. The synthesized holey CuFe2O4 nanosheet electrode enabled fast ion diffusion and full penetration of KOH electrolyte, giving rise to record break capacity (1164 C g−1/1940 F g−1) and cyclic stability of 98% retention over 10,000 cycles.

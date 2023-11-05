@@ -1,0 +1,1 @@
+In this paper, three different types of wayside energy storage systems (WESSs) have been investigated for obtaining peak demand reduction at substations that support DC rail transportation systems. The three types of ESSs comprise a battery, supercapacitor, and flywheel. The performance of these ESSs is compared on the basis of parameters such as, size, cost and energy saving.

@@ -1,0 +1,1 @@
+This paper deals with faster energy transaction with re-configuration of ultracapacitors during ride through conditions of static and dynamic loads. The ultracapacitors are re-configured within the bank from parallel to series at 50% state of charge(SOC). MatLab simulations for the cases studied are reported here.

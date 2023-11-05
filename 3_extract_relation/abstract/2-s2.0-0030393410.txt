@@ -1,0 +1,1 @@
+This paper describes a versatile bi-directional DC to DC converter, for the control of the power flow in either direction in a supercapacitor energy storage system for hybrid vehicle application. The results from computer simulation are compared with those obtained experimentally.

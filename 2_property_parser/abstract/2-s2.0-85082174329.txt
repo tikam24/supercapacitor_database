@@ -1,0 +1,1 @@
+Abstract: A system based on a frequency converter and three-phase electric motors has been developed to permit continuous drive operation when the primary power supply is cut off. Power may be supplied to the frequency converter from a low-voltage dc source such as a rechargeable battery or a supercapacitor.

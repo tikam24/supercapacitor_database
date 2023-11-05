@@ -1,0 +1,1 @@
+Power management for a biotelemetry tag implanted into the body of a sealion with the body temperature around 40°C is described. Various types of batteries are considered, possibly in combination with a supercapacitor. Component test results are used to predict the tag life time. © 2005 IEEE.

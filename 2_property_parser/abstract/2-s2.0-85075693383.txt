@@ -1,0 +1,1 @@
+A Na2SO4 + H2SO4 mixed electrolyte is demonstrated for a tungsten bronze pseudocapacitive electrode. The Na2SO4 supporting salt allows a large potential window while H+ effectively suppresses phase transformation. The electrode delivers a capacitance of 860 mF cm-2 with a -0.9 V-0 V window and 98% capacitance retention over 30 000 cycles.
