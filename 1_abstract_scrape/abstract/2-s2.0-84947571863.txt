@@ -1,1 +1,0 @@
-We report, for the first time to our knowledge, a voltage-controlled graphene-gold supercapacitor saturable absorber, as a modulator with adjustable insertion loss for low-gain mode-locked lasers. Nearly transform-limited, 80-fs pulses were generated near 1240 nm.

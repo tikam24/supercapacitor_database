@@ -1,1 +1,0 @@
-We present methods for analyzing the quality of supercapacitor samples based on noise measurements, generated in their structures, and temperature distributions at their surface. The methods have been compared with the currently used quality assessment parameters. The results justify the introduction of additional parameters to assess the quality of supercapacitors.

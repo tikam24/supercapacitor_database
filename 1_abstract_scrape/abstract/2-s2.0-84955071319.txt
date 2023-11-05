@@ -1,1 +1,0 @@
-The coordinated control strategy is proposed according to current constraints of grid-side converter based on the usage of supercapacitor energy storage system. The stability of DC bus voltage is achieved by using PR regulators to control the grid current.

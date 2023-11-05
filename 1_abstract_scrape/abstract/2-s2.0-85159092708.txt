@@ -1,1 +1,0 @@
-The paper presents an autonomous datalogger supplied by a flexible solar panel with a Lithium-Ion battery and a supercapacitor as energy storage. Relevant issues in design, implementation and testing are presented, as well as some measurements performed during summer days.

@@ -1,1 +1,0 @@
-These article contains description and application of Dual Active Bridge bi-directional DC-DC converter. Comparison of two topologies is presented: single-phase and three-phase, including their analysis. Results from laboratory setup enriched with supercapacitor are presented, with emphasis on the presentation of efficiency under different operating conditions.

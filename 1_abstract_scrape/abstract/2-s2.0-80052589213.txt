@@ -1,1 +1,0 @@
-In this paper, a high performance dynamic control for traction drives fed by fuel cells and supercapacitor is presented. A tandem converter connected to a permanent magnet in-wheel synchronous motor is considered as drive. The adopted control allows to achieve good power responses for the drive without overloading the fuel cell stack. © 2011 IEEE.

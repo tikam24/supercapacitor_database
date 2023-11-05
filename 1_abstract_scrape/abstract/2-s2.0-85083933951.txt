@@ -1,1 +1,0 @@
-This chapter provides a quick and essential revision on simple fundamentals applicable to energy storage devices (ESDs). Device equivalent circuits, time constants, and requirements for maximum power transfer are discussed with an introduction to Ragone plots. Different types of ESDs are introduced in relation to state of the art.

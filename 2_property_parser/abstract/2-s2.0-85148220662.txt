@@ -1,1 +1,0 @@
-In the current work, synthesis of an amorphous NiCo-MOF with an ultra-high mass loading (10.3 mg cm−2) and an ultra-thick plate structure was achieved via a one-step solvothermal method. Moreover, the corresponding assembled asymmetric supercapacitor showed a wide potential window of 1.7 V, a maximum area energy density of 0.68 mW h cm−2 and excellent cycling stability.

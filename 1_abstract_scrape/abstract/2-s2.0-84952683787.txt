@@ -1,1 +1,0 @@
-It is shown that the finite-term representation of current relaxation in supercapacitors with a set of exponential functions fails to approximate it at long time, meanwhile the one-term approximation with the stretched fractional exponent gives a good agreement with experimental data both at short- and long-time asymptotics.

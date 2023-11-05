@@ -1,1 +1,0 @@
-The paper introduces the simplified models, to characterize the electrical behaviour of the DLCs (Double Layer Capacitors). The models for the implementation of supercapacitors, and the simulations were created in Orcad 16 to determine their operation in time domain. Experimental charge tests have been executed on supercapacitor Maxwell BCAP1200P (1200F, 2.7V).

@@ -1,1 +1,0 @@
-The use of supercapacitors a a replacement for a backup battery for power ride-through applications is described.

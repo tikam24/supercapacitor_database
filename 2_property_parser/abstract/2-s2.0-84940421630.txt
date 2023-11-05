@@ -1,1 +1,0 @@
-We demonstrate a facile methodology to fabricate binder-free porous carbon nanofiber electrodes for room temperature ionic-liquid supercapacitors. The device provides an energy density of 80 W h kg-1 based on the mass of two electrodes while retaining the high rate capability of supercapacitors with near-ideal CV curves at a high scan rate of 200 mV s-1.

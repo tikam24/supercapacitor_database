@@ -1,1 +1,0 @@
-Covalent grafting of poly(p-phenylenediamine) (PPD)-phosphomolybdic acid (PMo12) on rGO (PPD-PMo12@rGO) has been realized within 1 minute. PPD-PMo12@rGO shows a characteristic covalently linked dual network structure that can significantly enhance its specific capacitance and cycling stability for supercapacitor applications.

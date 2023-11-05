@@ -1,1 +1,0 @@
-This industrial presentation describes the concept and the work undertaken towards the development of a power boost unit (PBU) for automotive applications such as electrically powered hydraulic steering (EPHS) and electrically powered steering (EPS).

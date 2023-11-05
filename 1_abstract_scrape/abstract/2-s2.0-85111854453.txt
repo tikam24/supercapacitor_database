@@ -1,1 +1,0 @@
-In this research a mathematical model of a hybrid system with wind generator and supercapacitor for supplying a smart home is realized. The model is described with the aid of differential equations. The simulation and numerical results are presented. The model is developed in MATLAB/Simulink environment.

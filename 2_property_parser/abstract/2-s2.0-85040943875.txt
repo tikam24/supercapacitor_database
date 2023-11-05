@@ -1,1 +1,0 @@
-PEDOT coated iron phosphide nanorod arrays are synthesized and demonstrated as high-performance negative electrodes for supercapacitors with high areal specific capacitance and significantly improved cycling stability. A MnO2//FeP/PEDOT aqueous asymmetric supercapacitor is fabricated with a high volumetric capacitance of 4.53 F cm-3 and an energy density of 1.61 mW h cm-3.

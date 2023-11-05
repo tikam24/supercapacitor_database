@@ -1,1 +1,0 @@
-Among renewable energy sources, wind energy has attracted much attention as a significant clean energy source all over the world. However, the output power of the wind farms is not consistent and has many fluctuations due to the abrupt variations in wind velocity, which results in system instability.

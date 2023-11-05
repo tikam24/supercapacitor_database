@@ -1,1 +1,0 @@
-Reduction of VO2 resistance by nearly 3 orders of magnitude through H2 treatment was reported for supercapacitor application. A specific discharge capacitance of 300 F g−1 and a specific energy density of 17 W h kg−1 at a rate of 1 A g−1 are demonstrated with long-term cycling stability, which is 4 times higher than untreated samples.

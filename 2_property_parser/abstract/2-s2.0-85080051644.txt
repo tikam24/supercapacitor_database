@@ -1,1 +1,0 @@
-In this paper, porous CoP/Ni2P2O7 hollow nanospheres have been synthesized via a two-step method. The obtained nanocomposites display superior specific capacitance (1998 F g−1 at a current density of 1 A g−1), excellent rate capability and commendable cycle stability (capacity retention of 90% after 1000 cycles), which can be a promising electrode material for supercapacitor.

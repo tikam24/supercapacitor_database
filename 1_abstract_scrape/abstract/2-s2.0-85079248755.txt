@@ -1,1 +1,0 @@
-A new layered structural Ni-MOF nanosheet has been successfully synthesized and used for the first time as an electrode for a supercapacitor and a flexible all-solid-state asymmetric supercapacitor, exhibiting capacitances of 1518.8 F g-1 at 1 A g-1 and 244 mF cm-2 at 0.5 mA cm-2, respectively.

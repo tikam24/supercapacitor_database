@@ -1,1 +1,0 @@
-Vertically aligned graphitic carbon nanosheet arrays were fabricated from graphene oxide solution by a hydrothermal method. The arrays exhibited a specific capacitance of 240 F g-1 at 200 A g-1 as a supercapacitor electrode and a capacity of 6500 mA h g-1 as a Li-O2 battery cathode.

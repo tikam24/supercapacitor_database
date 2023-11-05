@@ -1,1 +1,0 @@
-This paper deals with the first implementation of a wayside Energy Storage System by SNCF (French Railway Company). The aim of this Supercapacitors-based Energy Storage System is the voltage stabilization of the power supply. Some real tests (i.e. with trains) have been performed and. They enabled to assess the performances of the Energy Storage System.

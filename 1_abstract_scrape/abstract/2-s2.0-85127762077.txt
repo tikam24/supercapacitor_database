@@ -1,1 +1,0 @@
-In this book, different possible electrode fabrication and their arrangement to configure the supercapacitor devices for practical applications have been discussed. The supercapacitors have more than ~100-folds higher power densities and have very long cycle life than traditional batteries but associated with lower values of energy densities impeding their practical application.

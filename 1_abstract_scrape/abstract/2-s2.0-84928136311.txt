@@ -1,1 +1,0 @@
-Polypyrrole (PPy) encapsulated 3D flower-like NiO was prepared to investigate the role of PPy coating for high-performance electrodes. NiO@PPy showed a better electrochemical performance than pure NiO, and a "trade-off effect" between electrical conductivity and ion diffusion resistance was observed with different PPy coating thickness.

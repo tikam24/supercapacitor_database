@@ -1,1 +1,0 @@
-In the article the hybrid storage, composed of Aqueous Hybrid Ion battery and supercapacitor was presented. The system was tested through simulation studies. The work also describes the construction and properties of the developed device meant to control the energy flow of the storage and a communication system for remote parameter supervision.

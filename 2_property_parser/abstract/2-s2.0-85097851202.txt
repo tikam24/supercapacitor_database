@@ -1,1 +1,0 @@
-This paper presents a wireless power receiver circuit that integrates a tripler circuit and a boost converter with a supercapacitor. This circuit has had its impedance matched to a received 1 GHz signal, which energy is being captured for the purpose of delivering power wirelessly to low-power devices that require 5 V to operate.

@@ -1,1 +1,0 @@
-A CCSCC consent current source) is discussed, which is composed of MOSFET, it can be used to test the performances of supercapacitors, batteries and some power parts. The supervising control system of the CCSC is based on MCS-51 chip computer, it can control the output current, voltage and temperatures of the CCSC timely.

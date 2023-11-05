@@ -1,1 +1,0 @@
-Here, we report PEO/NBR composite iongels developed through an in situ synthesis strategy, aiming to boost the performance of supercapacitors by improving ion migration kinetics in solid polymer electrolyte. The iongel based supercapacitors display a high specific capacitance of 208 F g-1 at a current density of 1 A g-1 with excellent stability over 10000 cycles.

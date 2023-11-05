@@ -1,1 +1,0 @@
-In the current paper a mathematical modelling of a hybrid system with fuel cell and supercapacitor for usage in LED lighting are realized. Most typical structures for supplying of the system are presented. It is used two different load schedule: for smart home and for street lighting.

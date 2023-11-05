@@ -1,1 +1,0 @@
-In this paper the supercapacitor mathematical model and testing results are given. The developed 8 -channels measurement system is presented for testing of supercapacitors with high direct current ± 100A.

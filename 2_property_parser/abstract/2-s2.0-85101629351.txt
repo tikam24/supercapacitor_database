@@ -1,1 +1,0 @@
-We report a facile one-pot solvothermal way to prepare two-dimensional Ni-based metal-organic framework microsheets (Ni-MOFms) using only Ni precursor and ligand without any surfactant. The Ni-MOFms exhibit good specific capacities (91.4 and 60.0 C g−1at 2 and 10 A g−1, respectively) and long-term stability in 5000 cycles when used for a supercapacitor electrode.

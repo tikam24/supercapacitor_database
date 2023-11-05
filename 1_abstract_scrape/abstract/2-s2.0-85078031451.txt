@@ -1,1 +1,0 @@
-The development of a voltage balancing circuit of supercapacitors connected in series has been discussed in this report. The topicality of the theme in question is due to the implementation of those units in short-term uninterruptible power supplies (UPS), used especially in hybrid vehicles. The circuit that we have proposed here is a simple and reliable solution.

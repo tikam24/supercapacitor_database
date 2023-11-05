@@ -1,1 +1,0 @@
-This paper compares two active voltage balancing algorithms, applicable for energy storage systems made of supercapacitor cells connected in series. It is shown how the energy and the power are distributed during voltage equalization. The results presented herein are obtained from a simulation model and confirmed on an experimental stand.

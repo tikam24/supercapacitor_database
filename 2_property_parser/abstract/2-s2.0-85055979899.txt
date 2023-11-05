@@ -1,1 +1,0 @@
-Flexible redox supercapacitors based on treated carbon cloths were prepared by introducing methylene blue into a gel electrolyte. With the improvement in pseudocapacitance and broadening of the voltage window, the device exhibited a high capacitance of 1738 mF cm -2 and an energy density of 0.78 mW h cm -2 . In addition, 84.6% capacitance retention was achieved over 8000 cycles.

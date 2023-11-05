@@ -1,1 +1,0 @@
-Various types of electrolyte cations as well as binary cations are used to optimize the capacitive performance of activated carbon (AC) with different pore structures. The high-rate capability of micropore-rich AC, governed by the mobility of desolvated cations, can outperform that of mesopore-rich AC, which essentially depends on the electrolyte conductivity.

@@ -1,1 +1,0 @@
-In this paper, we investigate the monitoring of the leakage current of supercapacitors during calendar ageing. First, results of periodic characterization tests during calendar ageing up to 5000 hours are presented. Then, a model of leakage current is proposed and validated. Finally, the impact of both the temperature and voltage is highlighted and quantified. © 2013 IEEE.

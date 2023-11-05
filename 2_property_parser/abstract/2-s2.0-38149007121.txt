@@ -1,1 +1,0 @@
-The paper presents stand alone variable speed generating system. The generating system consists of three phase permanent magnet generator and controlled energy storage system. The paper shows performance of generating system with controlled energy storage system during transient states. Energy storage consists of supercapacitor bank.

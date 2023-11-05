@@ -1,1 +1,0 @@
-A highly transparent and stretchable electrode based on a Au nanomesh, electrodeposited with a thin layer of MnO2 with a transparency of 84.7% is introduced. The as-prepared transparent, stretchable, and imperceptible supercapacitor (TSPS) exhibits a specific capacitance of 0.53 mF cm-2 and excellent bending stability, together with high stretchability (up to 160% strain).

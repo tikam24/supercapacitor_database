@@ -1,1 +1,0 @@
-Electric vehicles (EVs) have the potential to replace conventional vehicles, but the short driving range and cost is currently limiting their market diffusion. Using analytical methods this paper looks at various losses in EV E/E architecture and proposes an architecture with improvements in efficiency and driving range.

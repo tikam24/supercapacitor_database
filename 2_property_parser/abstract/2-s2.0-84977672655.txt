@@ -1,1 +1,0 @@
-In this paper we present the work that has been carried out to stack 13 dies in a QFN package so as to obtain a super capacitor in a small volume. First the chips technology is described as well as the lead frame. Then the assembly process based on die attach film and wire bonding is explained. Finally the electrical tests of the modules are shown.

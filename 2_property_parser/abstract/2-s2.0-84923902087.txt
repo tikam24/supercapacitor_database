@@ -1,1 +1,0 @@
-This paper describes the stochastic tram model development on a real traffic data. The trams traffic data are measured on the tram without energy storage system in Pilsen (Czech Republic). The model can reliable simulate power flow, line losses and energy storage system efficiency for trams with supercapacitors.

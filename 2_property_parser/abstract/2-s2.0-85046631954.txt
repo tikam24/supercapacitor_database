@@ -1,1 +1,0 @@
-This paper presents a simulation and experimental study on power sharing between batteries and supercapacitors. Filters are used as a frequency splitter to share the power demanded by the load between the battery and the supercapacitor according to their dynamics. Experimental tests were carried out on a test bench to validate the proposed simulation.

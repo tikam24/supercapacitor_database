@@ -1,1 +1,0 @@
-In this paper, we have proposed a novel strategy to combine electrochemical anodization and electropolymerization for the in situ preparation of metal oxide/conductive polymer hybrid electrodes in supercapacitors. The feasibility of such a strategy was further verified by applying it to the iron oxide/polyaniline (Fe3O4/PANI) hybrid electrode material system.

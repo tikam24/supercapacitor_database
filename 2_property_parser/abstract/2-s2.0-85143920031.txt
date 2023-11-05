@@ -1,1 +1,0 @@
-A complete 3.3V/200mA ride-through application that maximizes the amount of power extracted from the supercapacitor is described.

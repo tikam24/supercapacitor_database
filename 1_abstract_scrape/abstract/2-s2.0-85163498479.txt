@@ -1,1 +1,0 @@
-Supercapacitors are useful in developing efficient DC-DC converters suitable for DC-operated LED lamps. When a supercapacitor bank is used in place of a battery pack, achieving MPPT is difficult since the LED load and the energy storage system become dominantly capacitive. This chapter presents new converter technique useful in DC operable LED lamps, with significant efficiency.

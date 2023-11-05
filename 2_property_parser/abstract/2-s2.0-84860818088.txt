@@ -1,1 +1,0 @@
-A novel multi-inverter power converter for double motor electric vehicles is presented in this paper. Thanks to a supercapacitor auxiliary storage unit and to a suitable control algorithm, the proposed setup allows to optimize the vehicle performances in terms of traction control and power flow. © 2012 IEEE.

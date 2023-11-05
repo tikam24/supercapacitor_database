@@ -1,1 +1,0 @@
-We report, what is to our knowledge, the shortest operation wavelength for graphene based supercapacitor saturable absorbers, generating 52-fs pulses from a Ti:sapphire laser near 830 nm with bias voltages less than 1.2 V.

@@ -1,1 +1,0 @@
-A supercapacitor-based power backup system that protects volatile data in handhelds when power is lost is described.

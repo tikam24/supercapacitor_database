@@ -1,1 +1,0 @@
-Supercapacitor electrodes assembled from meso/macroporous camphor-derived carbon sponges show highly promising performance in ac line-filtering. The coin-type supercapacitor exhibits an ultrafast frequency response with a phase angle of -78°and a RC time constant of 319 μs at 120 Hz and may be a viable alternative to the presently dominant aluminium electrolytic capacitors.

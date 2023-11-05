@@ -1,1 +1,0 @@
-This study constitutes the first attempt to use an OLED emitter material as a novel supercapacitor component. In supercapacitor tests, the specific capacitance (33.07 F g-1) of a poly(9-(3-vinyl-phenyl)-anthracene) (PVPA)/multi-walled carbon nanotube (MWCNT) mixture was found to be approximately three times that of the system composed of the MWCNTs alone.

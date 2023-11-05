@@ -1,1 +1,0 @@
-A facile co-precipitation and annealing method for the growth of porous CoMn2O4 microspheres is presented. Serving as a supercapacitor electrode, the CoMn2O4 microsphere possesses a remarkable specific capacitance (788 F g-1 at the current density of 1 A g-1), which hold great promise for use as electrochemical energy storage.

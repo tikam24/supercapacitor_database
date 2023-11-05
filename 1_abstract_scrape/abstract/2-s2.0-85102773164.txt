@@ -1,1 +1,0 @@
-In the current research a mathematical model of DC-DC converter charging an energy storage devices is presented. The model of the converter is realized in MATLAB/Simulink. For energy storage devices is used a supercapacitor.

@@ -1,1 +1,0 @@
-Pristine graphene nanoflakes (GNFs) and those doped with nitrogen up to a level of 10.9at.% were tested as an electrode material for electrochemical double-layer supercapacitor. Doping with nitrogen increased the specific capacitance of GNFs from 88 to 180F/g. The increase results from the enhanced interaction of nitrogen-doped graphene layers with electrolyte ions.

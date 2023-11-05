@@ -1,1 +1,0 @@
-To demonstrate the value of high discharge current capability of a supercapacitor, a discussion on the new supercapacitor-assisted temperature modification apparatus (SCATMA) technique is introduced in this chapter. Some early experimental data and design concepts are discussed.

@@ -1,1 +1,0 @@
-In this research a mathematical model of autonomous system with photovoltaic, supercapacitor and micro hydro power plant is presented. The model is realized in MATLAB/Simulink environment. Separate parts of the autonomous system are described and modeled using differential equations describing the principle of operation.

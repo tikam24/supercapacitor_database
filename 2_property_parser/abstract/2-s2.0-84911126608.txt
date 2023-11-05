@@ -1,1 +1,0 @@
-The promising energy storage properties of new lead-free antiferroelectric HfxZr1-xO2 (x = 0.1-0.4) films with high energy storage density are reported. The energy storage density of the Hf0.3Zr0.7O2 capacitor does not decrease with the increase in temperature up to 175 °C, and it decreases by only ≈4.5% after field cycling 109 times.

@@ -1,1 +1,0 @@
-For the first time to our knowledge, we employed a graphene supercapacitor as a voltage controlled saturable absorber at bias voltages of 0.5-1V to generate 84-fs pulses from a solid-state laser near 1255 nm. © 2014 OSA.

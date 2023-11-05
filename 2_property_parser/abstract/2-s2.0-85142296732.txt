@@ -1,1 +1,0 @@
-In the current paper a hybrid system for supplying a smart home is presented. The hybrid system consists of photovoltaic and supercapacitor. The model of the system is realized in PSim environment. In the model of the PV system the solar irradiance and the ambient temperature are considered. These parameters significantly increase the accuracy of the developed model.

@@ -1,1 +1,0 @@
-There are many existing energy harvesting (EH) chips on the shelf such as LTC3109, BQ25570, AEM10941, and LTC3S88-1. This paper proposes suggestions on how to choose the right EH chips for different EH sources, to achieve fast activation on startup, and to design high charging efficiency requirements for Internet of Things (IoT) applications.

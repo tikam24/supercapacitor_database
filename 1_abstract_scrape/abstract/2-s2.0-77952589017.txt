@@ -1,1 +1,0 @@
-In this paper the supercapacitor mathematical model was researched by means of the Linear Technology SPICE simulator.

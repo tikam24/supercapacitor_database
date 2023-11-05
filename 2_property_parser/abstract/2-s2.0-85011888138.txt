@@ -1,1 +1,0 @@
-Ultrathin vanadium oxide (V2O5) nanosheets with lateral sizes of up to tens of micrometers were synthesized, and then incorporated into multi-walled carbon nanotube (MWCNT) fibers. The solid-state supercapacitor based on such hybrid fibers exhibited an improved volumetric capacitance of 31 F cm−3 at 1.0 A cm−3, and a volumetric energy density of 2.1 mW h cm−3 at 1.5 W cm−3.

@@ -1,1 +1,0 @@
-Energy density and mechanical strength are crucial for practical usage of flexible supercapacitors. Herein, we demonstrate a flexible supercapacitor using Ni(OH)2/CNTs hierarchical spheres with high specific capacity (854 C g-1) and tough PBI-KOH solid polymer electrolyte. The integrated device shows high specific energy (50.6 W h kg-1) and good flexibility under folding tests.

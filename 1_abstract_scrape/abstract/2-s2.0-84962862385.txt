@@ -1,1 +1,0 @@
-The appearing of supercapacitor internal resistance influence on efficiency of energy delivery in resistance welding circuit was studied in the paper. The dependencies of supercapacitor energy storage efficiency on load resistance were obtained. The limits of supercapacitor use for resistance welding area were determined.

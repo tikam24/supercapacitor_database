@@ -1,1 +1,0 @@
-Proposed paper deals with an innovative and simple fast charging infrastructure for ultracapacitors (UC) to be used in urban public transportation applications. An ultracapacitors tank will be placed on-board the vehicle, whereas one or more stops are going to share a ground UCs system. Energy requirements, sizing and complete system description will be covered in this work.

@@ -1,1 +1,0 @@
-We have developed a new 2D c-MOF (Cu-TBC) via coordination polymerization of a highly conjugated tribenzocoronene-type organic ligand (6OH-TBC) and Cu2+, which exhibits excellent stability and performance as the electrode for a supercapacitor.

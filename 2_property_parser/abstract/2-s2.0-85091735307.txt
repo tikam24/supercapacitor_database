@@ -1,1 +1,0 @@
-The paper presents a laboratory prototype of the three-phase voltage compensator with an energy storage based on supercapacitors. The system described is able to protect an isolated grid, e.g. in industry, against short voltage interruptions, dips and sags. An idea of a control method as well as a digital controller has been discussed. Experimental results are also included.

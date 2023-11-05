@@ -1,1 +1,0 @@
-This paper presents the modeling of the charging time constant of supercapacitors in a mathematical formulation by the use of Matlab Simulink tools. It also intends to encourage the students in control engineering to grab the extent of the Matlab Simulink in built application since it offers a virtual laboratory works.

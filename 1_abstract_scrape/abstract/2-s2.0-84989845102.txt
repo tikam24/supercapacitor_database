@@ -1,1 +1,0 @@
-This paper presents the critical comments on the use of fractional derivatives in the theory of electrical circuits. It was pointed to the violation of the principle of dimensional physics equations uniformity, and changes the Maxwell equations.

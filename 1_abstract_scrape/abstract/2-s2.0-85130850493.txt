@@ -1,1 +1,0 @@
-Editor's notes: A battery supercapacitor is a viable hybrid energy-storage system for higher power density, lower cost, and cycle efficiency. This article presents an attachable diode-based battery-supercapacitor hybrid system. The authors provide extensive experimental results on their proposed system. - Mohammad Abdullah Al Faruque, University of California Irvine

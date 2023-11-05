@@ -1,1 +1,0 @@
-The article deals with problems of usage of ultracapacitors in electric vehicles. Connection of the ultracapacitor to the traction battery is described and simulation of the complex energy management of the small electric car is performed. Some recomadations in which cases it is suitable to use the ultracapacitor are included finally.

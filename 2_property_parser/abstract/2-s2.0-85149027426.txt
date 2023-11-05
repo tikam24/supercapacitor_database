@@ -1,1 +1,0 @@
-Based on a combination of polymeric redox couples and a polymer hydrogel separator, the performance of aqueous supercapacitors can be improved by concurrently increasing the specific capacitance, widening the electrolyte decomposition window, improving the cycling performance, and suppressing the self-discharge of both the electrical double-layer and faradaic charge storage.

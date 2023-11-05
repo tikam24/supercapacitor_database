@@ -1,1 +1,0 @@
-Graphene, MoS2 and similar layered materials are emerging with a variety of potential applications in energy devices. In particular, they perform well as catalysts in supercapacitors as well as in the Oxygen Reduction Reaction (ORR) of fuel cells. This chapter presents a brief survey of supercapacitors and ORR catalysts based on graphene, MoS2 and related materials.

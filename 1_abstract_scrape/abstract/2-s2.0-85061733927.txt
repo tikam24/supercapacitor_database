@@ -1,1 +1,0 @@
-The article presents the experience of developing an electric power source for Autonomous systems of technical means of protection. Research include both primary energy converters and electrical energy storage devices. The scheme of the developed device is presented, as well as the logical scheme of the hybrid electric energy storage.

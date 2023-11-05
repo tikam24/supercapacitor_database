@@ -1,1 +1,0 @@
-Herein, we report successful synthesis method of spinel NiCo2O4 nanorods by a low-cost and facile hydrothermal route. Cyclic Voltametry (CV) and galvanostatic Charge-Discharge (CD) measurements deduce ideal supercapacitive performance (823 F/g) of spinel NiCo2O4 nanorods at a nominal current density of 0.823 A/g with excellent cyclic stability and energy density of 28.51 Wh/Kg.
