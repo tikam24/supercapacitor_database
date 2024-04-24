@@ -1,0 +1,31 @@
+## Introduction
+
+- Importance of supercapacitor energy storage. Some definitions, classification and explanations about SC.
+- Importance of SC materials + properties database. Also mention other materials databases made by previous researchers.
+- Briefly explains the methods used like webscrapping, Regex, Language Models.
+- Write about Training BatteryBERT models and its performance.
+- Establish why SC database generation is Important and novellty of doing it.
+- Scope of the work in the development of SC technology.
+
+
+## Methods
+
+- Relevant articles identification using Scopus search API with “Supercapacitor” as a query word.
+- Web scrapping of Abstract using Scopus API along with the details.
+- ChemDataExtractor to identify CEMs in the abstracts text.
+- Regular Expression to Identify properties values.
+- Relationship extraction and final DB creation using NLP and BERT language model by employing QA method.
+
+## Results and Discussion
+
+- Table summary of data Records
+- Maximum and minimum value of individual properties.
+- Series data (% of series data records), multiple values in the same paper.
+- Flags (S- series data for 1 chemical name)
+- Stacked bar chart: the number of published papers about supercapacitor materials over the last 20 years.
+- Provide table for the hyperparameters of the models and also add performance score.
+- Ven diagram of all the properties and number of properties
+
+## Conclusion
+- 
+ 
